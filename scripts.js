@@ -131,7 +131,7 @@ document.addEventListener("DOMContentLoaded", function() {
         
         // Add functionality to the "Home" button to go back a page
         homeBtn.addEventListener("click", function() {
-        window.location.href = 'file:///Users/amitbarua/Desktop/SnapChatAcademy-main/index.html';
+        window.location.href = 'https://amitgt86.github.io/SnapChatAcademy/';
        });
     }
 }
